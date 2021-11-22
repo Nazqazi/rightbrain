@@ -1,3 +1,2 @@
 ###rightbrain
-
-Hello here
+https://nazqazi.github.io/rightbrain/
